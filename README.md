@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkarsingh9900&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarsingh9900" /> </p>
 
-- 🌱 I’m currently learning **Google UX Design Professional Course, Blockchain, and Go**
-
+- 🌱 I’m currently working on DEB(Decentralised Electoral Bonds)
 - 💬 Ask me about **Java(pretty confident in OOP)**
 
 - 📫 How to reach me **pushkarsingh2401@gmail.com**
