@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pushkarsingh2401@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ucFJm_ppNDrncHgHww4HC-DEQe5-tvDcuz76mVai8Ds/edit?usp=sharing](https://docs.google.com/document/d/1ucFJm_ppNDrncHgHww4HC-DEQe5-tvDcuz76mVai8Ds/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ucFJm_ppNDrncHgHww4HC-DEQe5-tvDcuz76mVai8Ds/edit?usp=sharing]([https://docs.google.com/document/d/1ucFJm_ppNDrncHgHww4HC-DEQe5-tvDcuz76mVai8Ds/edit?usp=sharing](https://drive.google.com/file/d/1SRw1zic35YQE1fPeokiTk6KLrTgCwXLI/view?usp=drive_link))
 
 - ⚡ Fun fact **I love to go to gym, good in athletics and there is greater than 75% chance of me beating you in table tennis.**
 
