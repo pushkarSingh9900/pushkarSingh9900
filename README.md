@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkarsingh9900&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarsingh9900" /> </p>
 
-- 🌱 I’m currently working on DEB(Decentralised Electoral Bonds)
+- 🌱 I’m currently existing.
 - 🌱 I’m also learning MERN and ML
 - 💬 Ask me about **Java(pretty confident in OOP)**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pushkar-singh-thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-singh-thakur" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/pushkar-singh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-singh-thakur" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pushkar_121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushkar_121" height="30" width="40" /></a>
 </p>
 
